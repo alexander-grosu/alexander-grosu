@@ -30,7 +30,7 @@
 ### certificates
 
 <embed
-    src="[http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf)"
+    src="https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf"
     type="application/pdf"
     frameBorder="0"
     scrolling="auto"
