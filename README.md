@@ -32,7 +32,9 @@
 ![Java](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf)
 ![JavaScript](https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf.pdf)
 
- <link href="style.css" rel="stylesheet"></link>
+
+<html>
+ <body>
   <style>
       .scroll_img_horizontal {
     background-color: rgb(113, 111, 111);
@@ -49,5 +51,7 @@
         <img src="https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf_page-0001.jpg" id="img_h" alt="">
         <img src="https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf_page-0001.jpg" id="img_h" alt="">
     </div>
+    </body>
+    </html>
 
 
