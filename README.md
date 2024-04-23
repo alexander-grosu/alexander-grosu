@@ -33,6 +33,18 @@
 ![JavaScript](https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf.pdf)
 
 
+  <style>
+      .scroll_img_horizontal {
+    background-color: rgb(113, 111, 111);
+    overflow: scroll;
+    white-space: nowrap;
+    padding: 5px;
+    margin-right: 1%;
+    /* |<- margin left ->  [object] <- margin right ->| */
+    margin-left: 65%;
+    } 
+    </style>
+
   <div class="scroll_img_horizontal">
         <img src="https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf_page-0001.jpg" id="img_h" alt="">
         <img src="https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf_page-0001.jpg" id="img_h" alt="">
