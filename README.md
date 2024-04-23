@@ -29,11 +29,4 @@
 
 ### certificates
 
-<embed
-    src="https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf"
-    type="application/pdf"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></embed>
+![Java](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf)
