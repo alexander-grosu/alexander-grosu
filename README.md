@@ -34,8 +34,8 @@
 
 
   <div class="scroll_img_horizontal">
-        <img src="[image/wallpaper/bastards.jpg](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf)" id="img_h" alt="">
-        <img src="https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf" id="img_h" alt="">
+        <img src="https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf_page-0001.jpg" id="img_h" alt="">
+        <img src="https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf_page-0001.jpg" id="img_h" alt="">
     </div>
 
 
