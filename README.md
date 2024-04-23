@@ -30,3 +30,4 @@
 ### certificates
 
 ![Java](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf)
+![JavaScript](https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf.pdf)
