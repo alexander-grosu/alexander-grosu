@@ -1,4 +1,5 @@
-### Hi there!
+### Hi there! My name is Alexander
+#### Currently I'm learning Java and it's my starting and basic programming language.
 
 
 
