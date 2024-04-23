@@ -5,7 +5,7 @@
 
 
 
-### skills
+### Skills
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,12 +23,12 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### courses
+### Education
 
 ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-### certificates
+### Certificates
 
 ![Java](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf_page-0001.jpg)
 ![JavaScript](https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf_page-0001.jpg)
