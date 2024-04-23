@@ -29,30 +29,10 @@
 
 ### certificates
 
-![Java](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf.pdf)
-![JavaScript](https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf.pdf)
+![Java](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf_page-0001.jpg)
 
+![JavaScript](https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf_page-0001.jpg)
 
-
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-     .scroll_img_horizontal {
-       overflow: scroll;
-       white-space: nowrap;
-       padding: 5px;
-       margin-right: 1%;
-       margin-left: 65%;
-     }
-      </style>
-
- <div class="scroll_img_horizontal">
-        <img src="https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf_page-0001.jpg" id="img_h" alt="">
-        <img src="https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf_page-0001.jpg" id="img_h" alt="">
- </div>
-  </foreignObject>
-</svg>
 
 
 
