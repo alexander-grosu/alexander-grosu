@@ -32,8 +32,8 @@
 
 ### Certificates
 
-![Java](https://github.com/alexander-grosu/main/blob/main/javaCertificatePdf_page-0001.jpg)
-![JavaScript](https://github.com/alexander-grosu/main/blob/main/jsCertificatePdf_page-0001.jpg)
+![Java](https://github.com/alexander-grosu/certificates/blob/main/javaCertificatePdf.pdf)
+![JavaScript](https://github.com/alexander-grosu/certificates/blob/main/jsCertificatePdf.pdf)
 
 
 
