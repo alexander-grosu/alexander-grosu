@@ -30,10 +30,6 @@
 ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-### Certificates
-
-![Java](https://github.com/alexander-grosu/certificates/blob/main/javaCertificatePdf.pdf)
-![JavaScript](https://github.com/alexander-grosu/certificates/blob/main/jsCertificatePdf.pdf)
 
 
 
