@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?logo=Thymeleaf&logoColor=white)
 ![](https://avatars.githubusercontent.com/u/34743864?s=48&v=4 | width=50)
+<img src="https://your-image-url.type](https://avatars.githubusercontent.com/u/34743864?s=48&v=4" width="50" height="50">
 
 ### IDE
 
