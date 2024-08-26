@@ -21,6 +21,11 @@
 ![](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?logo=Thymeleaf&logoColor=white)
 ![](https://avatars.githubusercontent.com/u/34743864?s=48&v=4 | width=50)
 <img src="https://your-image-url.type](https://avatars.githubusercontent.com/u/34743864?s=48&v=4" width="50" height="50">
+![image](https://avatars.githubusercontent.com/u/34743864?s=48&v=4 {width=40px height=400px})
+
+![image](https://avatars.githubusercontent.com/u/34743864?s=48&v=4 = 250x250)
+
+![image](https://avatars.githubusercontent.com/u/34743864?s=48&v=4 = 250x)
 
 ### IDE
 
